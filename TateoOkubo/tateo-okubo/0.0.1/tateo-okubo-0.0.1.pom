@@ -21,10 +21,10 @@
     </dependency>
 
     <dependency>
-      <groupId>LibTest</groupId>
+      <groupId>TateoOkubo</groupId>
       <artifactId>test-lib</artifactId>
       <version>0.0.1</version>
     </dependency>
-    
+
   </dependencies>
 </project>
