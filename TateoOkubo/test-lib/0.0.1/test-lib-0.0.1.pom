@@ -13,11 +13,11 @@
       <version>25.3.1</version>
       <scope>compile</scope>
     </dependency>
-    <dependency>
-      <groupId>LibTest</groupId>
-      <artifactId>test-lib</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
+    <!--<dependency>-->
+      <!--<groupId>LibTest</groupId>-->
+      <!--<artifactId>test-lib</artifactId>-->
+      <!--<version>unspecified</version>-->
+      <!--<scope>compile</scope>-->
+    <!--</dependency>-->
   </dependencies>
 </project>
