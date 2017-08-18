@@ -24,6 +24,7 @@
       <groupId>TateoOkubo</groupId>
       <artifactId>test-lib</artifactId>
       <version>0.0.1</version>
+        <scope>runtime</scope>
     </dependency>
 
   </dependencies>
