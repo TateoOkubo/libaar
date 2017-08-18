@@ -7,12 +7,6 @@
   <version>0.0.1</version>
   <packaging>aar</packaging>
   <dependencies>
-    <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>appcompat-v7</artifactId>
-      <version>25.3.1</version>
-      <scope>compile</scope>
-    </dependency>
     <!--<dependency>-->
       <!--<groupId>LibTest</groupId>-->
       <!--<artifactId>testlib-release</artifactId>-->
@@ -20,12 +14,12 @@
       <!--<scope>compile</scope>-->
     <!--</dependency>-->
 
-    <!--<dependency>-->
-      <!--<groupId>TateoOkubo</groupId>-->
-      <!--<artifactId>test-lib</artifactId>-->
-      <!--<version>0.0.1</version>-->
-      <!--<scope>compile</scope>-->
-    <!--</dependency>-->
+    <dependency>
+      <groupId>TateoOkubo</groupId>
+      <artifactId>test-lib</artifactId>
+      <version>0.0.1</version>
+      <scope>compile</scope>
+    </dependency>
 
   </dependencies>
 </project>
