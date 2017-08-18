@@ -13,12 +13,12 @@
       <version>25.3.1</version>
       <scope>compile</scope>
     </dependency>
-    <dependency>
-      <groupId>LibTest</groupId>
-      <artifactId>testlib-release</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
+    <!--<dependency>-->
+      <!--<groupId>LibTest</groupId>-->
+      <!--<artifactId>testlib-release</artifactId>-->
+      <!--<version>unspecified</version>-->
+      <!--<scope>compile</scope>-->
+    <!--</dependency>-->
 
     <dependency>
       <groupId>TateoOkubo</groupId>
