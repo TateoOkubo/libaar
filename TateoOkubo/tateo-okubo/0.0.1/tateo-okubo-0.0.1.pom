@@ -15,9 +15,16 @@
     </dependency>
     <dependency>
       <groupId>LibTest</groupId>
-      <artifactId>tateo-okubo</artifactId>
+      <artifactId>testlib-release</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
+
+    <dependency>
+      <groupId>LibTest</groupId>
+      <artifactId>test-lib</artifactId>
+      <version>0.0.1</version>
+    </dependency>
+    
   </dependencies>
 </project>
